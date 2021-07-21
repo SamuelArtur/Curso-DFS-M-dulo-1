@@ -2,7 +2,7 @@
 Repositório referente a implementação das rotas PUT, POST, DELETE e GET.
 
 #### Configuração de máquina
-  Para executar o projeto,deve-se ter instalado os seguintes itens:
+  Para executar o projeto, deve-se ter instalado os seguintes itens:
   
   -[.Net 5.0 SDK](https://dotnet.microsoft.com/download/visual-studio-sdks)
   
